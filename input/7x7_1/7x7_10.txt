@@ -1,0 +1,9 @@
+2121203
+1221203
+e3 t e3
+e2 t e2 t e
+t e4 t e
+e6 t
+t e3 t e2
+e3 t e2 t
+e t e5

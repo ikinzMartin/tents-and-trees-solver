@@ -1,0 +1,9 @@
+2120212
+1211212
+e5 t e
+e6 t
+t2 e2 t e2
+e2 t e4
+e5 t e
+e t2 e2 t e
+e7

@@ -1,0 +1,9 @@
+2022203
+1130402
+t e6
+e2 t3 e2
+e5 t e
+e2 t e4
+e t e t e t e
+e3 t e2 t
+e7

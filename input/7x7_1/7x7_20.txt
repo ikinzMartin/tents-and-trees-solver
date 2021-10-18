@@ -1,0 +1,9 @@
+1111212
+2111202
+e2 t e2 t e
+e3 t e t e
+e7
+e5 t e
+e t e5
+t e3 t2 e
+e7

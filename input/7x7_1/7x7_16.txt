@@ -1,0 +1,9 @@
+3030122
+3013103
+e t e4 t
+e2 t e4
+e2 t e2 t e
+e5 t e
+t e4 t e
+e2 t e2 t e
+e t e5
